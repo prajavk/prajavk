@@ -30,7 +30,7 @@ My current focus is **agentic AI, Generative AI, and workflow automation** — a
 ## 💼 Highlights of Experience
 
 - **9+ years** at Cox Automotive (Xtime) — Lead Software Engineer on Service Studio, Service Quoting, and Repair Order (RO) cloud applications
-- **Orion Systems Integrators** — Sr. Software Developer; delivered Xtime Service Studio, CitiRisk (Citibank), and Wells Fargo iReports trading platform
+- **Orion Systems Integrators** — Sr. Software Developer; delivered Xtime Service Studio, CitiRisk (Citibank), Compass group and Wells Fargo iReports trading platform
 - **IBM India** — Sr. Application Developer on Walmart Global Replenishment System (GRS) — 8 integrated microfrontend web apps using ExtJS & JSF
 - **Melstar / Reasoning Global** — delivered enterprise solutions for ServiceMaster, MartJack e-commerce, and school communication portals
 - Consistent record of **proof-of-concept delivery**, **reusable library authorship**, and **cross-team technical leadership**
@@ -67,13 +67,36 @@ My current focus is **agentic AI, Generative AI, and workflow automation** — a
 - **Certifications in progress** — Anthropic Claude AI Courses · Google AI Essentials · GitHub Copilot
 
 ---
+## 📋 The Principal Engineer Roadmap
+ 
+### Year 1: Build the Artifacts (Months 1–12)
+ 
+P5 promotion hinges on written evidence, not heroic delivery.
+ 
+**Deliver these proof points:**
+ 
+- **5+ Architecture Decision Records** — formalize the big choices: why this pattern over that, what you traded away
+- **12–18 month technical strategy** — written roadmap for your domain evolution, tech debt, AI adoption milestones
+- **2–3 cross-team RFCs** — standardize agentic AI adoption, spec-driven workflows, or architecture patterns
+- **Knowledge base initiative** — measurable adoption metrics (discovery time reduction, spike elimination)
+- **8–12 technical articles** — published on agentic AI, system design, modern frontend architecture
+- **AI generalist foundation** — complete core coursework (Claude, LLM fundamentals, fast.ai); demonstrate breadth across the stack
 
-## 🌐 Open Source & Community
-
-- Shared libraries (`claude-skills-utility`, `prompt-engineering-guide`) with cross-squad adoption
-- Writing on **agentic AI migrations**, spec-driven delivery, and RAG system design for engineering teams
-- Articles in progress: *How I migrated 100+ React components with agentic AI — CLAUDE.md patterns & lessons learned*
-
+---
+## 💡 Core Principles
+ 
+**Horizontal influence beats heroic delivery.** The Principal who ships features everyone forgets is less valuable than the P4 who writes the RFC that unlocks three teams.
+ 
+**Written artifacts are proof.** ADRs, RFCs, technical roadmaps, and published articles are how you show Principal-level thinking. Verbal influence is ephemeral.
+ 
+**Agentic AI and spec-driven development aren't trends.** They're force multipliers — they scale through adoption and standards, not through headcount.
+ 
+**Generalist foundations before specialist depth.** Understand the full AI landscape before you specialize in RAG or agents. The best specialists know what they're not specializing in.
+ 
+**Mentorship is a leadership multiplier.** Your mentees shipping code they're proud of, advancing their careers, landing P5 conversations — that's the real proof of Principal-level impact.
+ 
+**IC path >> management path (for me).** I ship code faster when I own the architecture. I mentor async via standards. I multiply team velocity through frameworks. That's where my leverage lies.
+ 
 ---
 
 ## 🧰 Languages & Tools
@@ -100,5 +123,22 @@ My current focus is **agentic AI, Generative AI, and workflow automation** — a
 `Rally` `JIRA` `Agile / SCRUM` `VS Code` `IntelliJ` `Eclipse`
 
 ---
+## 📖 Learning Resources & Courses
+ 
+### AI Foundations
+- **Anthropic**: Building with Claude series, Claude API documentation, agent architecture guides
+- **OpenAI**: LLM engineering courses, prompt engineering best practices
+- **fast.ai**: Practical deep learning for coders, LLM intro courses
+- **Maven Analytics**: LLM engineering bootcamps, advanced prompt design
+### Specialized AI Bootcamps
+- **Replit AI Bootcamp**: Hands-on LLM application building
+- **Anthropic Advanced Courses**: Multi-agent systems, evaluation frameworks
+- **LangChain / LangGraph**: Official documentation and advanced tutorials
+### Spec-Driven Development
+- **Architecture Decision Records**: ADR GitHub org, decision-making frameworks
+- **Test-Driven Development**: TDD best practices, executable specifications
+- **System Design**: URL shorteners, distributed caches, and real-world case studies
+---
+
 
 *Lead Software Engineer · Cox Automotive · Frontend SME · Agentic AI · 18+ years total experience*
