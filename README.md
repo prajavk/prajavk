@@ -53,7 +53,7 @@ My current focus is **agentic AI, Generative AI, and workflow automation** — a
 
 - Implemented a **design token system** across 100+ React components in Service Quoting & Service RO apps to support runtime CX/Interstate theme switching — orchestrated end-to-end with Claude Code agentic workflows
 - Built a **41-prompt Claude Code library** and CLAUDE.md constraint framework adopted as a spec-driven development standard
-- Authored and maintains internal shared utility libraries: `xtime/json-patch-utility` · `xtime/sq-common-utility`
+- Authored and maintains internal shared utility libraries: `json-patch-utility` · `react-common-utility`
 - Led development of cloud applications — Service Quoting, Service RO, Pricing Engine, Catalog Manager — integrated across the full Xtime Spectrum suite (Invite, Schedule, Engage, Inspect)
 - Delivered enterprise-grade SPAs for Citibank risk management, Wells Fargo real-time trading, and Walmart supply chain replenishment
 
